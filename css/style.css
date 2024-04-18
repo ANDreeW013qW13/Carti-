@@ -2,6 +2,7 @@ body {
     background: url("../images/back.jpg");
     color: white;
     text-indent: 20px;
+    background-size: cover;
 }
 
 #conteiner {
@@ -15,7 +16,7 @@ body {
 .celula {
     float: left;
     width: 400px;
-    height: 600px;
+    height: 500px;
     background: linear-gradient(rgb(0, 0, 165), rgb(76, 0, 126));
     border: 2px solid white;
     border-radius: 10px;
